@@ -12,6 +12,20 @@ a {
     font-family: cursive;
 }
 
+#portfolio_project1 {
+    color:lightblue;
+    font-size: 20px;
+    font-family: cursive;
+    text-align: left;
+}
+
+#portfolio_project2 {
+    color:green;
+    font-size: 20px;
+    font-family: cursive;
+    text-align: left;
+}
+
 #testthing {
     color: lightblue; 
     font-family: cursive;
@@ -35,42 +49,3 @@ tr:nth-child(odd){background-color:white;}
     font-family: cursive;
     
 }
-/*
-
-body {
-    background-image: url("images/lace_background.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: 100% auto;
-    
-}
-
-a {
-    color: lightblue;
-    font-size: 20px;
-    font-family: cursive;
-}
-
-#testthing {
-    color: lightblue; 
-    font-family: cursive;
-    
-}
-
-#mephoto {
-    border-style: solid; 
-    border-color: white; 
-    border-width: 10px;
-    margin-left: 550px;
-    
-}
-
-tr:nth-child(even){background-color:green;}
-tr:nth-child(odd){background-color:grey;}
-
-#aboutmetable {
-    color: lightblue;
-    font-size: 20px;
-    font-family: cursive;
-    
-} */
