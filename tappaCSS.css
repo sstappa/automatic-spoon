@@ -12,6 +12,12 @@ a {
     font-family: cursive;
 }
 
+h1 {
+    text-align:center
+    color: red;
+    font-size: 20px;
+    font-family: cursive;
+}
 #portfolio_project1 {
     color:lightblue;
     font-size: 20px;
@@ -48,4 +54,38 @@ tr:nth-child(odd){background-color:white;}
     font-size: 30px;
     font-family: cursive;
     
+}
+
+table {
+ 	   color: red;
+        font-size: 20px;
+        font-family: cursive;
+ 	   margin-left: auto;
+ 	   margin-right: auto;
+ 	   text-align: left;
+ 	   border-collapse: collapse;
+   }
+
+tr   {
+	  color: red;
+        font-size: 20px;
+        font-family: cursive;
+	  text-align: center;
+  }
+
+th   {
+	 text-align: center;
+  }
+  
+td {
+      color: red;
+        font-size: 20px;
+        font-family: cursive;
+      padding: 15px;
+   }
+   
+figure {
+        color: red;
+        font-size: 20px;
+        font-family: cursive;
 }
